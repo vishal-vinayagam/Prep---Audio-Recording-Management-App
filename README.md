@@ -2,6 +2,18 @@
 
 A modern, production-ready web application for recording, saving, and managing audio communications. Built with React, Vite, and Firebase.
 
+## Project Overview
+
+Prep is a single-page audio workflow app that helps users record voice notes in the browser, organize recordings in a library, and share or download them quickly.
+
+The app combines client-side audio capture with Firebase authentication so users can securely sign in, create recordings, and manage playback in a responsive interface.
+
+Core user flow:
+1. Sign in with email/password or Google.
+2. Record audio from the Home page.
+3. Save and review recordings in the Library.
+4. Share, download, or remove recordings as needed.
+
 ## Features
 
 - **Audio Recording** - Record high-quality audio directly from your browser
@@ -140,3 +152,6 @@ MIT
 ## Support
 
 For issues or questions, use the contact form in the app's footer or visit the support page.
+
+
+
