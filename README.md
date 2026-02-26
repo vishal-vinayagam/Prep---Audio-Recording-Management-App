@@ -1,4 +1,4 @@
-# Prep - Audio Recording & Management App
+# Prep - Audio Recording & Management App.
 
 A modern, production-ready web application for recording, saving, and managing audio communications. Built with React, Vite, and Firebase.
 
