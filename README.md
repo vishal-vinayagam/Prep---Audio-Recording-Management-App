@@ -67,7 +67,6 @@ npm run lint
 # Build for production
 npm run build
 ```
-
 The app will be available at `http://localhost:5173`
 
 ## Project Structure
